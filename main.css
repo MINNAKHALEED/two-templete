@@ -29,7 +29,8 @@ header{
 
 .logo img{
     max-width: 100%;  
-  width: 50px;
+  width: 75px;
+  height: auto;
 }
 
 .navlist{
